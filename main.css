@@ -1,0 +1,48 @@
+ul li {
+    display: inline-block;
+}
+
+.Navbar {
+    background: black;
+    color: white;
+}
+
+.container {
+    justify-content: center;
+    padding: 2em;
+}
+
+.Nav-Bar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.Body1,
+.Body2,
+.Body3,
+.Body4 {
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Footer {
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Footer1 {
+    padding-left: 250px;
+}
