@@ -3,6 +3,8 @@ ul li {
 }
 
 .Navbar {
+    height: 50px;
+    display: flex;
     background: black;
     color: white;
 }
