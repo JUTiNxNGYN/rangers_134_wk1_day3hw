@@ -30,6 +30,7 @@ ul li {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    grid-gap: 80px;
 }
 
 .button {
